@@ -1,0 +1,89 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Projects\\C#\\repos\\MHcom\\MHCom\\MHCom\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\Projects\\C#\\repos\\MHcom\\MHCom\\MHCom\\obj\\Debug\\net7.0\\build-gz\\QRM8l+cS.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "D:\\Projects\\C#\\repos\\MHcom\\MHCom\\MHCom\\obj\\Debug\\net7.0\\scopedcss\\bundle\\MHCom.styles.css",
+      "PackagePath": "staticwebassets\\MHCom.styles.css"
+    },
+    {
+      "Id": "D:\\Projects\\C#\\repos\\MHcom\\MHCom\\MHCom\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\Projects\\C#\\repos\\MHcom\\MHCom\\MHCom\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "D:\\Projects\\C#\\repos\\MHcom\\MHCom\\MHCom\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "D:\\Projects\\C#\\repos\\MHcom\\MHCom\\MHCom\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "D:\\Projects\\C#\\repos\\MHcom\\MHCom\\MHCom\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\C#\\repos\\MHcom\\MHCom\\MHCom\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "D:\\Projects\\C#\\repos\\MHcom\\MHCom\\MHCom\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "D:\\Projects\\C#\\repos\\MHcom\\MHCom\\MHCom\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "D:\\Projects\\C#\\repos\\MHcom\\MHCom\\MHCom\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "D:\\Projects\\C#\\repos\\MHcom\\MHCom\\MHCom\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "D:\\Projects\\C#\\repos\\MHcom\\MHCom\\MHCom\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\Projects\\C#\\repos\\MHcom\\MHCom\\MHCom\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\Projects\\C#\\repos\\MHcom\\MHCom\\MHCom\\wwwroot\\profile.jpg",
+      "PackagePath": "staticwebassets\\profile.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\C#\\repos\\MHcom\\MHCom\\MHCom\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.MHCom.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.MHCom.props",
+      "PackagePath": "build\\MHCom.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.MHCom.props",
+      "PackagePath": "buildMultiTargeting\\MHCom.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.MHCom.props",
+      "PackagePath": "buildTransitive\\MHCom.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
